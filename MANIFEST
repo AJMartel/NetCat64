@@ -1,0 +1,9 @@
+doexec.c
+generic.h
+hobbit.txt
+Makefile
+MANIFEST
+netcat64.c
+NetCat64_private.h
+NetCat64_private.rc
+readme.txt
